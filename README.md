@@ -1,5 +1,5 @@
 # RealTime Sensing
-
+Isaac Cuellar
 Repositorio del proyecto final.
 
 ## Contenido

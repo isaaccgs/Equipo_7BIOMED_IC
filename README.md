@@ -1,5 +1,6 @@
 # RealTime Sensing
 Isaac Cuellar
+kevin barrera
 Repositorio del proyecto final.
 
 ## Contenido
